@@ -1,4 +1,4 @@
-import { useEffect, useState } from "react";
+import { useState } from "react";
 import { useQuery } from "react-query";
 import * as styles from "./GalleryStyles";
 import { Modal } from "@mui/material";
